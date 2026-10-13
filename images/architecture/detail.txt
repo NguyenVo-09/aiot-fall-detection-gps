@@ -1,0 +1,3 @@
+Ảnh P1 là ảnh chi tiết về các linh kiện và luồng hoạt động của hệ thống phần cứng đẩy thông tin lên firebase firestore và đến ứng dụng app di động.
+Ảnh P2 mô tả thông tin các thông tin được phần cứng thu thập xử lý và gửi đến firebase sang ứng dụng di động
+Ảnh P3 là kiến trúc Model Conv1D được sử dụng để nhận dạng té ngã sau khi MPU6050 vượt ngưỡng.

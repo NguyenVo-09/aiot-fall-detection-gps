@@ -1,0 +1,59 @@
+# Operating-system metadata and editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
+
+# Local secrets and machine-specific settings
+.env
+.env.*
+!.env.example
+!.env.sample
+!**/.env.example
+!**/.env.sample
+*.local
+*service-account*.json
+*serviceAccount*.json
+*.keystore
+*.jks
+key.properties
+local.properties
+
+# Python utilities: caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# ESP-IDF / CMake generated files and downloaded components
+build/
+managed_components/
+.espressif/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+sdkconfig.old
+
+# Flutter / Dart generated files and package caches
+.dart_tool/
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.gradle/
+Pods/
+.symlinks/
+ephemeral/
+coverage/
+
+# Keep source, board configuration, manifests and lockfiles.
+# Keep docs/, images/, *.csv experiment logs, model weights and *.tflite files.
+# Do not ignore entire PDF, TXT, CSV, BIN, H, or .vscode categories.

@@ -1,0 +1,4 @@
+Ảnh fall.png là ảnh dạng sóng và dự đoán của AI về trường hợp té ngã
+Ảnh jump.png là ảnh dạng sóng và dự đoán của AI về trường hợp nhảy tại chỗ.
+Ảnh walk.png là ảnh dạng sóng và dự đoán của AI về trường hợp đi bộ.
+Ảnh overview, history, map, setting là các ảnh giao diện flutter được xây dựng bằng ngôn ngữ Dart để nhận cảnh báo và quan sát người té ngã.

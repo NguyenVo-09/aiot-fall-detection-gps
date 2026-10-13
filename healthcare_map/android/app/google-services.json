@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063871622506",
+    "project_id": "sis-fall",
+    "storage_bucket": "sis-fall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063871622506:android:1a443eef5c563e47fdc913",
+        "android_client_info": {
+          "package_name": "com.example.healthcare_map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcLjmODx8oOUe26YhATqyb4Jd1fg4ZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
