@@ -83,7 +83,7 @@ Thời lượng pin được **ước tính** với pin Li-Po 2.000 mAh, hiệu 
 
 ![Sơ đồ khối phần cứng và các đường truyền thông](images/architecture/P1.png)
 
-*Các khối phần cứng, nguồn cấp, giao tiếp cảm biến, truyền thông di động, Firestore và cảnh báo đến người giám hộ. Module sạc là TP4056 theo xác nhận của tác giả; ảnh sơ đồ được giữ nguyên.*
+*Các khối phần cứng, nguồn cấp, giao tiếp cảm biến, truyền thông di động, Firestore và cảnh báo đến người giám hộ.*
 
 | Linh kiện | Chức năng |
 | --- | --- |
